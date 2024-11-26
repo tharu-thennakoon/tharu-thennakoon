@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer;Code%2C+Learn%2C+Repeat!" alt="Typing SVG" />
+</p>
+
+---
+
 ### 👩‍💻 About Me:  
 - 🎓 **Student** passionate about learning and building full-stack applications.  
 - 🌐 Open to collaborations in software development and problem-solving projects.  
@@ -44,7 +50,7 @@
 
 ---
 
-### 🎨 Animations:  
+### 🌈 Scrolling Animation:  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer;Code%2C+Learn%2C+Repeat!" alt="Typing SVG" />
+  <img src="https://svgshare.com/i/uPj.svg" alt="Scroll Animation" width="800"/>
 </p>
