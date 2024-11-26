@@ -1,62 +1,66 @@
-# 👋 Hi there, I'm Tharushi Thennakoon!
+# 👋 Hi, I’m **Tharushi Thennakoon!**
 
-Welcome to my corner of GitHub! I'm a **Computer Science undergraduate** at the **Informatics Institute of Technology (IIT)** affiliated with the **University of Westminster**. I specialize in building modern web and software solutions while exploring the endless possibilities in technology.
+![Header Animation](https://user-images.githubusercontent.com/your-profile-id/animated-header.gif)
 
-## 👀 My Interests
-- 🖥️ Software Engineering
-- 🌐 Web Development
-
-## 🌱 Currently Learning
-- Advanced Java Development at the Institute of Java Software Engineering (IJSE)
-- Spring Boot and Angular for full-stack development
-- Researching supervised machine learning models for real-world applications
-
-## 💞️ Collaboration Interests
-- Open-source contributions
-- Innovative software development projects
-- Academic research in computer science
-
-## 📫 How to Reach Me
-- **Email**: [tharushikalpani2003@gmail.com](mailto:tharushikalpani2003@gmail.com)
-- **LinkedIn**: [linkedin.com/in/tharushi-thennakoon](https://linkedin.com/in/tharushi-thennakoon)
-- **GitHub**: [github.com/tharushi-thennakoon](https://github.com/tharushi-thennakoon)
-
-## 😄 Pronouns
-She/Her
-
-## ⚡ Fun Fact
-I achieved provincial ranking in the **All-Island Music Competition** and love blending creativity from music into coding solutions.
+Welcome to my GitHub! I'm an enthusiastic **Computer Science undergraduate** at **Informatics Institute of Technology (IIT)**, affiliated with the **University of Westminster**. My passion lies in creating innovative software solutions, conducting machine learning research, and playing classical violin. 🎻
 
 ---
 
-### 🛠️ Skills
+## 👀 **What I’m Interested In**
+- 💻 **Software Engineering** – Crafting robust and scalable solutions
+- 🌍 **Web Development** – Building seamless user experiences
+- 🤖 **Machine Learning** – Applying AI to solve real-world challenges
+- 🎵 **Classical Music** – Merging creativity and precision in violin performance
+
+---
+
+## 🌱 **What I’m Currently Learning**
+- Advanced **Java Development** at **IJSE**
+- Full-stack development with **Spring Boot** and **Angular**
+- **Machine Learning** research with a focus on supervised learning
+
+---
+
+## 💞️ **Let’s Collaborate On**
+- 🤝 Open-source projects
+- 🚀 Innovative software solutions
+- 📚 Research in **AI** and **Machine Learning**
+
+---
+
+## 📫 **Reach Me At**
+- 📧 [tharushikalpani2003@gmail.com](mailto:tharushikalpani2003@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/tharushi-thennakoon)
+- 🌐 [GitHub](https://github.com/tharushi-thennakoon)
+
+---
+
+## ⚡ **Fun Fact**
+Did you know? I’m a **Visharad violinist** with a provincial ranking in the **All-Island Music Competition**! 🎶
+
+---
+
+### 🛠️ **Skills**
 #### Technical
-- Java, Python, MySQL
-- React, Spring Boot, Angular
-- JavaScript
+- 💻 Java, Python, MySQL
+- 🌐 React, Spring Boot, Angular, JavaScript
 
 #### Soft Skills
-- Problem Solving
-- Time Management
-- Critical Thinking
-- Teamwork
+- 🤔 Problem Solving
+- ⏳ Time Management
+- 🎯 Critical Thinking
+- 💡 Teamwork
 
 ---
 
-## 🌟 Animations in Action
-![Coding Animation](https://user-images.githubusercontent.com/your-profile-url/code.gif)
+## 🌟 **Animations In Action**
+![Coding Animation](https://user-images.githubusercontent.com/your-profile-id/coding.gif)
 
-```css
-/* Example animation styles (adjust with GitHub Actions or CSS snippets) */
-body {
-  animation: fadeIn 2s ease-in-out;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
+### Dynamic SVG Example:
+```html
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" height="300">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="purple" font-size="20">
+    Hello, I’m Tharushi!
+  </text>
+  <animateTransform attributeType="XML" attributeName="transform" type="rotate" from="0 250 250" to="360 250 250" dur="5s" repeatCount="indefinite"/>
+</svg>
