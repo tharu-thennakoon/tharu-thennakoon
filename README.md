@@ -1,55 +1,51 @@
-<h1 align="center">Hi 👋, I'm Tharushi Thennakoon</h1>
-<h3 align="center">Full Stack Developer</h3>
-
+<!-- Title with Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergraduate;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=4EA6F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+👋+I'm+Tharushi;Full+Stack+Developer" />
+  </h1>
 </div>
 
-### 👨‍🎓 About Me
-- 🎓 Computer Science undergraduate at **Informatics Institute of Technology (IIT)**
-- 🌱 Currently learning **Advanced Web Development**
-- 💼 Affiliated with the **University of Westminster**
+<!-- About Me Section -->
+I'm a Computer Science undergraduate at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, passionate about building web applications and solving complex problems.
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharushiThennakoon&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharushiThennakoon&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharushiThennakoon&theme=react-dark" alt="Activity Graph" />
-</p>
-
-### 🏆 Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TharushiThennakoon&theme=radical&row=1" alt="Trophy" />
-</p>
-
-### 🤝 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/TharushiThennakoon" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<!-- Social Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/TharushiThennakoon" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
+</div>
+
+<!-- Animated Full Stack Banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="500">
+</div>
+
+<!-- Tech Stack -->
+<h2>🛠️ Tech Stack</h2>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TharushiThennakoon&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+</div>
+
+<!-- Most Used Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </div>
