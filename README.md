@@ -1,82 +1,55 @@
-import React from 'react';
-import { FaJava, FaPython, FaReact, FaDatabase, FaAngular, FaGithub } from 'react-icons/fa';
-import { SiSpringboot, SiJavascript, SiMysql } from 'react-icons/si';
+<h1 align="center">Hi 👋, I'm Tharushi Thennakoon</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-const GithubProfile = () => {
-  return (
-    <div className="min-h-screen bg-gray-900 text-white p-8 space-y-8 animate-fade-in">
-      <header className="text-center space-y-4">
-        <h1 className="text-4xl font-bold animate-bounce">
-          Hi 👋, I'm Tharushi Thennakoon
-        </h1>
-        <p className="text-xl text-blue-400 animate-pulse">
-          Full Stack Developer
-        </p>
-        <p className="text-lg text-gray-300">
-          Computer Science undergraduate at IIT (University of Westminster)
-        </p>
-      </header>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Computer+Science+Undergraduate;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
-      <section className="space-y-6">
-        <h2 className="text-2xl font-semibold text-cyan-400">💻 Tech Stack</h2>
-        <div className="grid grid-cols-3 md:grid-cols-4 gap-4">
-          {[
-            { icon: FaJava, name: 'Java', color: 'text-red-500' },
-            { icon: FaPython, name: 'Python', color: 'text-yellow-500' },
-            { icon: FaReact, name: 'React', color: 'text-blue-400' },
-            { icon: SiMysql, name: 'MySQL', color: 'text-orange-400' },
-            { icon: SiSpringboot, name: 'Spring Boot', color: 'text-green-500' },
-            { icon: SiJavascript, name: 'JavaScript', color: 'text-yellow-300' },
-            { icon: FaAngular, name: 'Angular', color: 'text-red-600' }
-          ].map((tech, index) => (
-            <div 
-              key={tech.name}
-              className="flex flex-col items-center p-4 bg-gray-800 rounded-lg transform hover:scale-105 transition-transform duration-300"
-              style={{ animationDelay: `${index * 100}ms` }}
-            >
-              <tech.icon className={`text-4xl ${tech.color}`} />
-              <span className="mt-2 text-sm">{tech.name}</span>
-            </div>
-          ))}
-        </div>
-      </section>
+### 👨‍🎓 About Me
+- 🎓 Computer Science undergraduate at **Informatics Institute of Technology (IIT)**
+- 🌱 Currently learning **Advanced Web Development**
+- 💼 Affiliated with the **University of Westminster**
 
-      <section className="space-y-6">
-        <h2 className="text-2xl font-semibold text-cyan-400">📊 GitHub Stats</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <div className="bg-gray-800 p-6 rounded-lg animate-fade-in">
-            <h3 className="text-xl mb-4">Activity</h3>
-            <div className="space-y-2">
-              <div className="flex justify-between">
-                <span>Total Repositories</span>
-                <span className="text-green-400">20</span>
-              </div>
-              <div className="flex justify-between">
-                <span>Stars Earned</span>
-                <span className="text-yellow-400">15</span>
-              </div>
-              <div className="flex justify-between">
-                <span>Pull Requests</span>
-                <span className="text-purple-400">10</span>
-              </div>
-            </div>
-          </div>
-          <div className="bg-gray-800 p-6 rounded-lg animate-fade-in">
-            <h3 className="text-xl mb-4">Contributions</h3>
-            <div className="h-40 flex items-center justify-center">
-              <div className="relative w-32 h-32">
-                <div className="absolute inset-0 border-4 border-blue-500 rounded-full animate-ping"></div>
-                <div className="absolute inset-0 border-4 border-blue-500 rounded-full"></div>
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <span className="text-2xl font-bold">500+</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-    </div>
-  );
-};
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+</p>
 
-export default GithubProfile;
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TharushiThennakoon&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharushiThennakoon&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharushiThennakoon&theme=react-dark" alt="Activity Graph" />
+</p>
+
+### 🏆 Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TharushiThennakoon&theme=radical&row=1" alt="Trophy" />
+</p>
+
+### 🤝 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/TharushiThennakoon" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/TharushiThennakoon" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TharushiThennakoon&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
