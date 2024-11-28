@@ -19,7 +19,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 </div>
 
-typescript
 const tharushi = {
     title: "Undergraduate @ IIT 🎓",
     code: ["JavaScript", "Python", "Java", "TypeScript"],
@@ -27,7 +26,7 @@ const tharushi = {
         frontEnd: ["React", "Angular", "Bootstrap"],
         backEnd: ["Spring Boot", "Node.js"],
         databases: ["MySQL", "MongoDB"],
-        tools: ["Git", "Postman", "GitHub"]
+        tools: ["Git", "Postman"]
     },
     currentFocus: "Building Scalable Full Stack Applications 🚀"
 };
