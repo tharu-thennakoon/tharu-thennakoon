@@ -64,13 +64,18 @@
   <a href="https://github.com/tharu-thennakoon" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:tharushikalpani2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/tharu.u_?igsh=c3pkamo2YTVsa204" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ---
 
+### 📧 Email:
+**tharushikalpani2003@gmail.com**
+
+---
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2">
-</div>    
+</div>
